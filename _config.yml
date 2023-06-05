@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Piotr Maciąg"
   avatar           :  "/assets/portret1.jpeg"
-  bio              : "I am an **amazing** person."
+  #bio              : "I am an **amazing** person."
   location         : "Warsaw, Poland"
   email            : "piotr.maciag32@gmail.com"
   links:
