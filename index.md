@@ -6,4 +6,4 @@ author_profile: true
 
 In the academic year 2017/2018 he was a visiting research in Knowledge Engineering and Discovery Research Institute (KEDRI) at **Auckland University of Technology**, where he was working under supervision of Professor Nikola Kasabov on novel prediction methods using spiking neural networks. In January and February 2019, he visited OPTIMA research group lead by Professor Javier Del Ser Lorente at **Tecnalia Research and Innovation** in Basque Country, where he was working on anomaly detection in time series data. From October to December 2019 he visited Robotics Institute of **Carnegie Mellon University**. 
 
-He enjoyes *cooperating with industry*: he worked as an analys Accenture between August 2022 - and May 2023 as well as participated in several industry related projects. For his research achievemnts he obtained Rector's Award in 2021.
+He enjoyes *cooperating with industry*: he worked as an analys **Accenture** between August 2022 - and May 2023 as well as participated in several industry related projects. For his research achievemnts he obtained Rector's Award in 2021.
