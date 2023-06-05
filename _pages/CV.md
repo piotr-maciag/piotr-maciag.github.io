@@ -30,7 +30,7 @@ permalink: /cv/
 
 ---
 
-#### Leader in research grants
+#### Leader/contributor in research grants
 
 ---
 
