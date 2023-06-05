@@ -34,10 +34,8 @@ permalink: /cv/
 
 ---
 
-
 ---
 
 #### Other research activities
 
 ---
-
