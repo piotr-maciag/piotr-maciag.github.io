@@ -304,5 +304,5 @@ defaults:
       path: ""
       type: pages
     values:
-      #layout: double
+      layout: page
       author_profile: true
