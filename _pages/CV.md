@@ -16,14 +16,28 @@ permalink: /cv/
 
 ---
 
-#### Work experience
+#### Working experience
 
 ---
 
 * **Assistant Professor**, Institute of Computer Science, Warsaw University of Technology, Warsaw, since 10.2022.
 * **Data Science Analyst**, Accenture, Warsaw, 08.2022 - 05.2023.
 * **Resarch and Teaching Assistant**, Institute of Computer Science, Warsaw University of Technology, Warsaw,  03.2019 - 10.2022.
-* PhD studies, Institute of Computer Science, Warsaw University of Technology, Warsaw, 10.2015 - 12.2021.
 * **Visiting Researcher**, Robotics Institute, Carnegie Mellon University, Pittsburgh, USA, 10.2019 - 12.2019.
+* **Visiting Researcher**, Tecnalia Research and Innovation, Bilbao, Spain, 01.2019 - 02.2019.
+* **Visiting Researcher**, Knowledge Engineering and Discovery Research Institute, Auckland University of Technology, Auckland, New Zealand, 09.2017 - 10.2018.
+* PhD studies, Institute of Computer Science, Warsaw University of Technology, Warsaw, 10.2015 - 12.2021.
 
 ---
+
+#### Leading research grants
+
+---
+
+
+---
+
+#### Other research activities
+
+---
+
