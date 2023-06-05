@@ -23,6 +23,7 @@ permalink: /cv/
 * **Assistant Professor**, Institute of Computer Science, Warsaw University of Technology, Warsaw, since 10.2022.
 * **Data Science Analyst**, Accenture, Warsaw, 08.2022 - 05.2023.
 * **Resarch and Teaching Assistant**, Institute of Computer Science, Warsaw University of Technology, Warsaw,  03.2019 - 10.2022.
-* Vistiting
+* PhD studies, Institute of Computer Science, Warsaw University of Technology, Warsaw, 10.2015 - 12.2021.
+* **Visiting Researcher**, Robotics Institute, Carnegie Mellon University, Pittsburgh, USA, 10.2019 - 12.2019.
 
 ---
