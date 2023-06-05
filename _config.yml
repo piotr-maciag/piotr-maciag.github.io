@@ -113,9 +113,9 @@ author:
     - label: "piotr.maciag32@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://piotr-maciag.github.io"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://piotr-maciag.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -131,9 +131,12 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/piotrmaciag32/"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
-      url: "https://www.linkedin.com/in/piotrmaciag32/"
+    # - label: "Google Scholar"
+    #   icon: "fab fa-fw fa-link"
+    #   url: "https://www.linkedin.com/in/piotrmaciag32/"
+    - label: "DBLP Database"
+      icon: "fab fa-fw fa-link"
+      url: "https://dblp.uni-trier.de/pid/200/0320.html"
 
 # Site Footer
 footer:
