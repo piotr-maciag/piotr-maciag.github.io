@@ -30,7 +30,7 @@ permalink: /cv/
 
 ---
 
-#### Leading research grants
+#### Leader in research grants
 
 ---
 
@@ -42,3 +42,14 @@ permalink: /cv/
 
 * Member Program Comitee of workshop  „Design, Implementation and Applications of Spiking Neural Networks and Neuromorphic Systems” *IEEE World Congress on Computational Intelligence 2020*, Glasgow, Great Britain, 19 – 24 July 2020.
 * Rewieving publications for journals and conferences *Artificial Intelligence Review* journal, *Journal of Cleaner Production*, *34th ACM/SIGAPP Symposium On Applied Computing (SAC 2019)* oraz *4th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2017)*.
+
+---
+
+#### Selected presentations on scientific conferences
+
+---
+
+1. Speech ,, A Comparative Study of Short Text Classification with Spiking Neural Networks ' conference 2022 17th Conference on Computer Science and Intelligence Systems (FedCSIS), Sofia, Bulgaria, 04 – 07 September 2022.
+2. Speech ,,New theoretical results in design of evolving spiking neural networks and their application to air pollution prediction and anomaly detection'' congress IEEE World Congress on Computational Intelligence (WCCI) 2020, Glasgow, Wielka Brytania, 19 - 24 lipca 2020.
+3. Poster presentation ,,Online Evolving Spiking Neural Networks for Incremental Air Pollution Prediction'' congress IEEE World Congress on Computational Intelligence (WCCI) 2020, Glasgow, Great Britain, 19 - 24 July 2020.
+4. Speech ,,Discovery of closed spatio-temporal sequential patterns from event data'' conference 23rd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2019), Budapest, Hungary, 4 - 6 September 2019.
