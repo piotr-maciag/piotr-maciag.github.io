@@ -39,3 +39,6 @@ permalink: /cv/
 #### Other research activities
 
 ---
+
+* Member Program Comitee of workshop  „Design, Implementation and Applications of Spiking Neural Networks and Neuromorphic Systems” *IEEE World Congress on Computational Intelligence 2020*, Glasgow, Great Britain, 19 – 24 July 2020.
+* Rewieving publications for journals and conferences *Artificial Intelligence Review* journal, *Journal of Cleaner Production*, *34th ACM/SIGAPP Symposium On Applied Computing (SAC 2019)* oraz *4th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2017)*.
