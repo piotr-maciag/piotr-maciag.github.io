@@ -132,7 +132,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/piotrmaciag32/"
     - label: "Google Scholar"
-      icon: "/assets/GS_logo.png"
+      icon: "/assets/GS_logo.svg"
       url: "https://www.linkedin.com/in/piotrmaciag32/"
 
 # Site Footer
