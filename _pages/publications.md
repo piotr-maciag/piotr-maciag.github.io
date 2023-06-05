@@ -3,7 +3,7 @@ title: Research
 permalink: /publications/
 ---
 
-You can find the up-to-date list of my research publications in the DBLP database: [https://dblp.uni-trier.de/pid/200/0320.html](https://dblp.uni-trier.de/pid/200/0320.html)
+You can find up-to-date list of my research publications at the DBLP database: [https://dblp.uni-trier.de/pid/200/0320.html](https://dblp.uni-trier.de/pid/200/0320.html)
 
 My scientific interests are:
 
