@@ -105,10 +105,10 @@ analytics:
 # Site Author
 author:
   name             : "Piotr Maciąg"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/portret1.jpg"
   bio              : "I am an **amazing** person."
   location         : "Warsaw, Poland"
-  email            :
+  email            : "piotr.maciag32@gmail.com"
   links:
     - label: "piotr.maciag32@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
