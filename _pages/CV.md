@@ -2,6 +2,23 @@
 title: CV
 permalink: /cv/
 ---
-### Education
+#### Education
 
-### Experience
+---
+
+
+
+Some edu
+
+---
+
+
+
+#### Experience
+
+---
+
+Eome exp
+
+
+---
