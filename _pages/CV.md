@@ -1,9 +1,7 @@
 ---
 title: CV
-permalink: /CV/
+permalink: /cv/
 ---
-
 ### Education
 
 ### Experience
-
