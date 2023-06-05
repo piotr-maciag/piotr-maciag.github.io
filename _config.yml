@@ -131,11 +131,11 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/piotrmaciag32/"
-    # - label: "Google Scholar"
-    #   icon: "fab fa-fw fa-link"
-    #   url: "https://www.linkedin.com/in/piotrmaciag32/"
-    - label: "DBLP Database"
-      icon: "fab fa-fw fa-link"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://www.linkedin.com/in/piotrmaciag32/"
+    - label: "dblp research database"
+      icon: "fas fa-fw fa-link"
       url: "https://dblp.uni-trier.de/pid/200/0320.html"
 
 # Site Footer
