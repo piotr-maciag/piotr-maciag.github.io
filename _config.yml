@@ -135,7 +135,7 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://www.linkedin.com/in/piotrmaciag32/"
     - label: "DBLP research database"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-book"
       url: "https://dblp.uni-trier.de/pid/200/0320.html"
 
 # Site Footer
