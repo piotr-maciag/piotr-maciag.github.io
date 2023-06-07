@@ -30,9 +30,14 @@ permalink: /cv/
 
 ---
 
-#### Leader/contributor in research grants
+#### Leader/contributor in research grants (most recent)
 
 ---
+
+Leading research projects:
+
+* Leader in a grant **"Development of new classification and prediction methods with the use of spiking neural networks"**, research grant for the employees of Warsaw University of Technology awarded by the Council of Computer Science discipline; time period: 01.08.2020 - 31.12.2021.
+* Leader in a grant **"Development of sequential patterns discovery methods and anomaly detection with particular use of spiking neural networks",** research grant for young scientists of the WEiTI faculty, Warsaw University of Technology; time period: 01.07.2019 - 31.12.2019.
 
 ---
 
