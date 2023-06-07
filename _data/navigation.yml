@@ -6,12 +6,12 @@ main:
     url: /index.html
   - title: "CV"
     url: /cv/
-  - title: "Projects"
-    url: /publications.html
+  # - title: "Projects"
+  #   url: /publications.html
   - title: "Research"
     url: /publications/
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
     
   # - title: "Sample Posts"
