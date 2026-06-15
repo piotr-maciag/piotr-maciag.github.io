@@ -8,7 +8,7 @@ author_profile: true
 - [About Me](#about-me)
 - [Academic Experience](#academic-experience)
 - [Non-Academic Experience](#non-academic-experience)
-- [Education](#education)
+- [Qualifications](#qualifications)
 - [Research Visits](#research-visits)
 
 ## Contact
@@ -38,7 +38,7 @@ I am a computer scientist working at the intersection of data mining, machine le
 - **Data Science Analyst**, Accenture, August 2022 - October 2023.
 - **Database Expert**, Office of Electronic Communications, Project title: "Improving the Performance of Software for Modeling Internet and Telephone Networks in Poland", November 2021 - May 2022.
 
-## Education
+## Qualifications
 
 - **Ph.D. in Computer Science**, Warsaw University of Technology, 2021. Distinguished Ph.D. thesis. [Preprint](/assets/files/preprints/2021_PhD_thesis.pdf)
 - **M.Sc. in Computer Science**, Rzeszow University of Technology, 2015. Graduated as an honour student.
