@@ -27,6 +27,7 @@ $garamond: Garamond, serif !default;
 $global-font-family           : $serif !default;
 $header-font-family           : $sans-serif !default;
 $caption-font-family          : $serif !default;
+$max-width                    : 1440px !default;
 
 /* type scale */
 $type-size-1: 2.441em !default;
@@ -49,17 +50,17 @@ $h-size-6: 1em !default;
 @import "minimal-mistakes";
 
 html {
-    font-size: 11.05px;
+    font-size: 10px;
 
   @include breakpoint($medium) {
-    font-size: 11.9px;
+    font-size: 10.75px;
   }
 
   @include breakpoint($large) {
-    font-size: 12.75px;
+    font-size: 11.5px;
   }
 
   @include breakpoint($x-large) {
-    font-size: 13.6px;
+    font-size: 12.25px;
   }
 }
