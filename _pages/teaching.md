@@ -4,9 +4,10 @@ permalink: /teaching/
 ---
 ## Courses
 
-- **Databases**
-- **Artificial Intelligence Methods**
-- **Object-Oriented Programming**
+- **Databases**: lectures, classes, and projects.
+- **Artificial Intelligence Methods**: lectures and classes for postgraduate studies.
+- **Object-Oriented Programming**: classes.
+- **Data Mining**: projects.
 
 ## Thesis Supervision
 
