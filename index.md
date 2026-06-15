@@ -17,12 +17,17 @@ Profiles: [Google Scholar](https://scholar.google.pl/citations?user=v--wmw0AAAAJ
 
 I am a computer scientist working at the intersection of data mining, machine learning, and applied data science. My research concerns methods for analysing complex temporal and spatio-temporal data, including sequential pattern discovery, anomaly detection, time series prediction, clustering, spiking neural networks, and reusable representations in deep learning. I am especially interested in applications in environmental modelling, urban analytics, event analysis, process mining, and business intelligence.
 
-## Current Positions and Roles
+## Academic Experience
 
+- **Head of Postgraduate Studies in AI-Powered Business Intelligence**, Institute of Computer Science, Warsaw University of Technology, since August 2024.
 - **Assistant Professor**, Institute of Computer Science, Warsaw University of Technology, since October 2022.
-- **Head of Postgraduate Studies in AI-Powered Business Intelligence**, Warsaw University of Technology, since August 2024.
+- **Research and Teaching Assistant**, Institute of Computer Science, Warsaw University of Technology, March 2019 - September 2022.
+
+## Non-Academic Experience
+
 - **Process Mining Engineer**, Processifier, since November 2025.
-- Supervisor of bachelor and master theses in Computer Science.
+- **AI Specialist**, CDeX, July 2023 - December 2023.
+- **Data Science Analyst**, Accenture, August 2022 - October 2023.
 
 ## Education
 
