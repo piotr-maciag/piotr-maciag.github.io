@@ -37,6 +37,6 @@ I am a computer scientist working at the intersection of data mining, machine le
 
 ## Research Visits
 
-- **Robotics Institute**, Carnegie Mellon University, Pittsburgh, USA, September 2019 - December 2019.
-- **Optimization, Modeling and Data Analytics Research Group**, Tecnalia Research and Innovation, Bilbao, Spain, January 2019 - February 2019.
-- **Knowledge Engineering and Discovery Research Institute**, Auckland University of Technology, Auckland, New Zealand, September 2017 - July 2018.
+- Robotics Institute, **Carnegie Mellon University**, Pittsburgh, USA, September 2019 - December 2019.
+- Optimization, Modeling and Data Analytics Research Group, **Tecnalia Research and Innovation**, Bilbao, Spain, January 2019 - February 2019.
+- Knowledge Engineering and Discovery Research Institute, **Auckland University of Technology**, Auckland, New Zealand, September 2017 - July 2018.
