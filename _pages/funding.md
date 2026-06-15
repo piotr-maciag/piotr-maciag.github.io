@@ -2,6 +2,10 @@
 title: Funding
 permalink: /funding/
 ---
+
+- [Funded Projects and Grants](#funded-projects-and-grants)
+- [Awards and Scholarships](#awards-and-scholarships)
+
 ## Funded Projects and Grants
 
 - **Project Leader**, "Integrated assessment of the embryotoxicity of selected plant extracts using the zebrafish model and generative artificial intelligence", Excellence Initiative Research University, Warsaw University of Technology, 2026.

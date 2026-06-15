@@ -2,6 +2,10 @@
 title: Teaching
 permalink: /teaching/
 ---
+
+- [Courses](#courses)
+- [Thesis Supervision](#thesis-supervision)
+
 ## Courses
 
 - **Databases**: lectures, classes, and projects.
