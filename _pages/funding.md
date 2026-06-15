@@ -2,7 +2,6 @@
 title: Funding
 permalink: /funding/
 ---
-
 - [Funded Projects and Grants](#funded-projects-and-grants)
 - [Awards and Scholarships](#awards-and-scholarships)
 
@@ -22,4 +21,6 @@ permalink: /funding/
 - **Distinguished Ph.D. thesis**, Warsaw University of Technology, 2022.
 - **Rector's Award in Science**, Warsaw University of Technology, 2021.
 - **Rector's Scholarship for Young Researchers**, Warsaw University of Technology, 2021.
+- **NAWA PROM Scholarship**, scholarship for a research visit at Tecnalia Research and Innovation, PROM PW Programme, National Agency for Academic Exchange and Warsaw University of Technology, 2019.
+- **RENOIR Scholarship**, scholarship for a research visit at Carnegie Mellon University, RENOIR (Reverse Engineering of Social Information Processing), Horizon 2020 Programme, Warsaw University of Technology, 2019.
 - **Honour student distinction**, M.Sc. in Computer Science, Rzeszow University of Technology, 2015.
