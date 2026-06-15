@@ -31,7 +31,7 @@ I am a computer scientist working at the intersection of data mining, machine le
 
 ## Education
 
-- **Ph.D. in Computer Science**, Warsaw University of Technology, 2021. Distinguished Ph.D. thesis.
+- **Ph.D. in Computer Science**, Warsaw University of Technology, 2021. Distinguished Ph.D. thesis. [Preprint](/assets/files/preprints/2021_PhD_thesis.pdf)
 - **M.Sc. in Computer Science**, Rzeszow University of Technology, 2015. Graduated as an honour student.
 - **B.Sc. in Computer Science**, Rzeszow University of Technology, 2014.
 
