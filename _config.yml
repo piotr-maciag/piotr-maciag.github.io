@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello!"
+title                    : "Piotr Maciąg"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Assistant Professor, Warsaw University of Technology"
 name                     : "Piotr Maciąg"
-description              : "Welcome to my website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Academic website of Piotr Maciąg: research, publications, funding, and teaching."
+url                      : "https://piotr-maciag.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "piotr-maciag/piotr-maciag.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -90,9 +90,13 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person
+  name                   : "Piotr Maciąg"
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/piotrmaciag32/"
+    - "https://github.com/piotr-maciag"
+    - "https://scholar.google.pl/citations?user=v--wmw0AAAAJ&hl=en"
+    - "https://dblp.org/pid/200/0320.html"
 
 # Analytics
 analytics:
@@ -106,59 +110,38 @@ analytics:
 author:
   name             : "Piotr Maciąg"
   avatar           :  "/assets/portret1.jpeg"
-  bio              : "Nice to meet you!"
+  bio              : "Assistant Professor at Warsaw University of Technology. Data mining, machine learning, and spatio-temporal data analysis."
   location         : "Warsaw, Poland"
-  email            : "piotr.maciag32@gmail.com"
+  email            : "piotr.maciag@pw.edu.pl"
   links:
-    - label: "piotr.maciag32@gmail.com"
+    - label: "piotr.maciag@pw.edu.pl"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://piotr-maciag.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:piotr.maciag@pw.edu.pl"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/piotr-maciag"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/piotrmaciag32/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://www.linkedin.com/in/piotrmaciag32/"
-    - label: "DBLP research database"
+      url: "https://scholar.google.pl/citations?user=v--wmw0AAAAJ&hl=en"
+    - label: "DBLP"
       icon: "fas fa-fw fa-book"
-      url: "https://dblp.uni-trier.de/pid/200/0320.html"
+      url: "https://dblp.org/pid/200/0320.html"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/piotr-maciag"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/piotrmaciag32/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.pl/citations?user=v--wmw0AAAAJ&hl=en"
 
 
 # Reading Files
