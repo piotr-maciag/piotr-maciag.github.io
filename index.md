@@ -3,6 +3,14 @@ title: About
 layout: single
 author_profile: true
 ---
+
+- [Contact](#contact)
+- [About Me](#about-me)
+- [Academic Experience](#academic-experience)
+- [Non-Academic Experience](#non-academic-experience)
+- [Education](#education)
+- [Research Visits](#research-visits)
+
 ## Contact
 
 **Piotr Maciąg**
