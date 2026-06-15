@@ -112,11 +112,7 @@ author:
   avatar           :  "/assets/portret1.jpeg"
   bio              : "Assistant Professor at Warsaw University of Technology. Data mining, machine learning, and spatio-temporal data analysis."
   location         : "Warsaw, Poland"
-  email            : "piotr.maciag@pw.edu.pl"
   links:
-    - label: "piotr.maciag@pw.edu.pl"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:piotr.maciag@pw.edu.pl"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/piotr-maciag"

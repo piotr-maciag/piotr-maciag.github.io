@@ -9,7 +9,7 @@ author_profile: true
 **Piotr Maciąg**  
 Assistant Professor, Institute of Computer Science  
 Warsaw University of Technology, Warsaw, Poland  
-Email: [piotr.maciag@pw.edu.pl](mailto:piotr.maciag@pw.edu.pl)
+Email: piotr [dot] maciag [at] pw [dot] edu [dot] pl
 
 Profiles: [Google Scholar](https://scholar.google.pl/citations?user=v--wmw0AAAAJ&hl=en) · [DBLP](https://dblp.org/pid/200/0320.html) · [LinkedIn](https://www.linkedin.com/in/piotrmaciag32/) · [GitHub](https://github.com/piotr-maciag)
 
