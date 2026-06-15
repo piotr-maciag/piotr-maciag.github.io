@@ -2,6 +2,11 @@
 title: Research
 permalink: /research/
 ---
+
+- [Publications](#publications)
+- [Conference Presentations](#conference-presentations)
+- [Academic Services](#academic-services)
+
 ## Publications
 
 An up-to-date list of my publications is available through [Google Scholar](https://scholar.google.pl/citations?user=v--wmw0AAAAJ&hl=en) and [DBLP](https://dblp.org/pid/200/0320.html).
@@ -26,7 +31,7 @@ An up-to-date list of my publications is available through [Google Scholar](http
 18. **Piotr S. Maciąg**, "Efficient Discovery of Top-K Sequential Patterns in Event-Based Spatio-Temporal Data", *Proceedings of the 2018 Federated Conference on Computer Science and Information Systems (FedCSIS 2018)*, pp. 47-56, 2018. [Publisher](https://doi.org/10.15439/2018F19)
 19. **Piotr S. Maciąg**, "A Survey on Data Mining Methods for Clustering Complex Spatiotemporal Data", in *Beyond Databases, Architectures and Structures. Towards Efficient Solutions for Data Analysis and Knowledge Representation. 13th International Conference (BDAS 2017)*, vol. 716, pp. 115-126, 2017. [Publisher](https://doi.org/10.1007/978-3-319-58274-0_10)
 
-## Conferences
+## Conference Presentations
 
 - Poster, "Combining Retrieval-Augmented Text Generation with LLMs for Reading Content Recommendations", *International Conference on Artificial Intelligence and Soft Computing (ICAISC 2026)*, Zakopane, Poland, June 2026. [Poster](/assets/files/presentations/2026_ICAISC_poster.pdf)
 - Poster, "Discovering Frequent Closed Embedded Sub-DAGs in Spatio-Temporal Event Data", *Polish Conference on Artificial Intelligence (PP-RAI 2026)*, Kraków, Poland, April 2026. [Poster](/assets/files/presentations/2026_PP_RAI26_poster.pdf)
