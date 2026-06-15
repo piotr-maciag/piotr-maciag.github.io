@@ -3,12 +3,11 @@ title: About
 layout: single
 author_profile: true
 ---
-
 ## Contact
 
-**Piotr Maciąg**  
-Assistant Professor, Institute of Computer Science  
-Warsaw University of Technology, Warsaw, Poland  
+**Piotr Maciąg**
+Assistant Professor, Institute of Computer Science
+Warsaw University of Technology, Warsaw, Poland
 Email: piotr [dot] maciag [at] pw [dot] edu [dot] pl
 
 Profiles: [Google Scholar](https://scholar.google.pl/citations?user=v--wmw0AAAAJ&hl=en) · [DBLP](https://dblp.org/pid/200/0320.html) · [LinkedIn](https://www.linkedin.com/in/piotrmaciag32/) · [GitHub](https://github.com/piotr-maciag)
@@ -28,6 +27,7 @@ I am a computer scientist working at the intersection of data mining, machine le
 - **Process Mining Engineer**, Processifier, since November 2025.
 - **AI Specialist**, CDeX, July 2023 - December 2023.
 - **Data Science Analyst**, Accenture, August 2022 - October 2023.
+- **Database Expert**, Office of Electronic Communications, Project title: "Improving the Performance of Software for Modeling Internet and Telephone Networks in Poland", November 2021 - May 2022.
 
 ## Education
 
