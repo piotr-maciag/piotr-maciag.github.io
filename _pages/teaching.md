@@ -17,13 +17,13 @@ permalink: /teaching/
 
 ## Thesis Supervision
 
-### Master's Theses
+### Completed Master's Theses
 
 - **System wspomagania decyzji inwestycyjnych na rynku walutowym z wykorzystaniem maszyny wektorów nośnych i pelikanowego algorytmu optymalizacji** (Decision support system for investment decisions in the foreign exchange market using support vector machines and the pelican optimization algorithm), 2025.
 - **Wykorzystanie impulsowej sieci neuronowej do generowania niskowymiarowej reprezentacji danych tekstowych - analiza i porównanie metod kodowania danych** (Using a spiking neural network to generate low-dimensional representations of text data: analysis and comparison of data encoding methods), 2024.
 - **Implementacja i porównanie modeli impulsowych sieci neuronowych w wybranych algorytmach uczenia ze wzmocnieniem w grach Atari** (Implementation and comparison of spiking neural network models in selected reinforcement learning algorithms for Atari games), 2024.
 
-### Bachelor's Theses
+### Completed Bachelor's Theses
 
 - **Rozpoznawanie emocji na podstawie analizy zdjęć twarzy oraz sygnałów EEG** (Emotion recognition based on the analysis of facial images and EEG signals), 2026.
 - **Projekt i implementacja aplikacji społecznościowej z funkcjami komunikacji w czasie rzeczywistym** (Design and implementation of a social networking application with real-time communication features), 2025.
