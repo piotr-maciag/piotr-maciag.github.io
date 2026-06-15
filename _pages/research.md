@@ -19,11 +19,11 @@ An up-to-date list of my publications is available through [Google Scholar](http
 
 - Poster, "Combining Retrieval-Augmented Text Generation with LLMs for Reading Content Recommendations", International Conference on Artificial Intelligence and Soft Computing (ICAISC 2026), June 2026. [Poster](/assets/files/presentations/2026_ICAISC_poster.pdf)
 - Poster, "Discovering Frequent Closed Embedded Sub-DAGs in Spatio-Temporal Event Data", Polish Conference on Artificial Intelligence (PP-RAI 2026), April 2026. [Poster](/assets/files/presentations/2026_PP_RAI26_poster.pdf)
-- Keynote speech, "Spatio-temporal pattern discovery: Is a data mining approach really enough?", 6th International Conference on Frontiers in Computing and Systems, Warsaw, Poland, September 2025. Presentation: to be added
-- Talk, "A Comparative Study of Short Text Classification with Spiking Neural Networks", 17th Conference on Computer Science and Intelligence Systems, Sofia, Bulgaria, September 2022. Presentation: to be added
-- Talk, "New theoretical results in design of evolving spiking neural networks and their application to air pollution prediction and anomaly detection", IEEE World Congress on Computational Intelligence, Glasgow, United Kingdom, July 2020. Presentation: to be added
-- Poster, "Online Evolving Spiking Neural Networks for Incremental Air Pollution Prediction", IEEE World Congress on Computational Intelligence, Glasgow, United Kingdom, July 2020. Poster: to be added
-- Talk, "Discovery of closed spatio-temporal sequential patterns from event data", 23rd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, Budapest, Hungary, September 2019. Presentation: to be added
+- Keynote speech, "Spatio-temporal pattern discovery: Is a data mining approach really enough?", 6th International Conference on Frontiers in Computing and Systems, Warsaw, Poland, September 2025.
+- Talk, "A Comparative Study of Short Text Classification with Spiking Neural Networks", 17th Conference on Computer Science and Intelligence Systems, Sofia, Bulgaria, September 2022.
+- Talk, "New theoretical results in design of evolving spiking neural networks and their application to air pollution prediction and anomaly detection", IEEE World Congress on Computational Intelligence, Glasgow, United Kingdom, July 2020.
+- Poster, "Online Evolving Spiking Neural Networks for Incremental Air Pollution Prediction", IEEE World Congress on Computational Intelligence, Glasgow, United Kingdom, July 2020.
+- Talk, "Discovery of closed spatio-temporal sequential patterns from event data", 23rd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, Budapest, Hungary, September 2019.
 
 ## Academic Services
 
