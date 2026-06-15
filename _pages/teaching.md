@@ -8,6 +8,7 @@ permalink: /teaching/
 - **Artificial Intelligence Methods**: lectures and classes for postgraduate studies.
 - **Object-Oriented Programming**: classes.
 - **Data Mining**: projects.
+- **Introduction to Algorithms**: classes.
 
 ## Thesis Supervision
 
