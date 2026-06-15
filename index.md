@@ -15,11 +15,7 @@ Profiles: [Google Scholar](https://scholar.google.pl/citations?user=v--wmw0AAAAJ
 
 ## About Me
 
-I am an Assistant Professor at the Institute of Computer Science, Warsaw University of Technology. My research is focused on data mining and machine learning, especially methods for discovering patterns in spatio-temporal data, anomaly detection, time series prediction, clustering, and neural-network-based learning.
-
-I received my Ph.D. in Computer Science from Warsaw University of Technology, where my dissertation concerned sequential pattern discovery, anomaly detection, and prediction from spatio-temporal data with particular use of evolving spiking neural networks. I also hold M.Sc. and B.Sc. degrees in Computer Science from Rzeszow University of Technology.
-
-My work combines theoretical algorithm design with applied data science. I am particularly interested in methods that can be used in domains such as environmental modelling, urban analytics, crime incident analysis, and business intelligence.
+I am a computer scientist working at the intersection of data mining, machine learning, and applied data science. My research concerns methods for analysing complex temporal and spatio-temporal data, including sequential pattern discovery, anomaly detection, time series prediction, clustering, spiking neural networks, and reusable representations in deep learning. I am especially interested in applications in environmental modelling, urban analytics, event analysis, process mining, and business intelligence.
 
 ## Current Positions and Roles
 
@@ -33,16 +29,6 @@ My work combines theoretical algorithm design with applied data science. I am pa
 - **Ph.D. in Computer Science**, Warsaw University of Technology, 2021. Distinguished Ph.D. thesis.
 - **M.Sc. in Computer Science**, Rzeszow University of Technology, 2015. Graduated as an honour student.
 - **B.Sc. in Computer Science**, Rzeszow University of Technology, 2014.
-
-## Research Interests
-
-- Spatio-temporal data mining and sequential pattern discovery.
-- Time series forecasting and anomaly detection.
-- Spiking neural networks and evolving neural systems.
-- Clustering, classification, and prediction methods.
-- Natural language processing and short text classification.
-- Reusable representations in deep machine learning.
-- Applications in air pollution prediction, event analysis, process mining, and business intelligence.
 
 ## Research Visits
 
