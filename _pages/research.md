@@ -3,16 +3,7 @@ title: Research
 permalink: /research/
 ---
 
-My research is focused on data mining and machine learning methods for complex, temporal, and spatio-temporal data. I work on both methodological problems and applications in domains such as environmental modelling, urban analytics, process mining, and business intelligence.
-
-## Research Areas
-
-- **Spatio-temporal pattern discovery**: sequential patterns, concise representations of patterns, and event-based spatio-temporal data mining.
-- **Time series prediction and anomaly detection**: methods for forecasting, online stream analysis, and unsupervised detection of abnormal behaviour.
-- **Neural and deep learning methods**: evolving spiking neural networks, reusable representations in deep machine learning, and ensemble approaches.
-- **Applied data science**: air pollution prediction, crime event analysis, text classification, process mining, and business intelligence.
-
-## Selected Publications
+## Publications
 
 An up-to-date list of my publications is available through [Google Scholar](https://scholar.google.pl/citations?user=v--wmw0AAAAJ&hl=en) and [DBLP](https://dblp.org/pid/200/0320.html).
 
@@ -32,7 +23,7 @@ An up-to-date list of my publications is available through [Google Scholar](http
 
 8. **Piotr S. Maciąg**, "Efficient Discovery of Sequential Patterns from Event-Based Spatio-Temporal Data by Applying Microclustering Approach", in *Intelligent Methods and Big Data in Industrial Applications*, vol. 40, pp. 183-199, 2019. [Publisher](https://doi.org/10.1007/978-3-319-77604-0_14) · [Preprint](https://arxiv.org/abs/1708.08674)
 
-## Selected Conference Talks and Presentations
+## Conferences
 
 - Keynote speech, "Spatio-temporal pattern discovery: Is a data mining approach really enough?", 6th International Conference on Frontiers in Computing and Systems, Warsaw, Poland, September 2025.
 - Talk, "A Comparative Study of Short Text Classification with Spiking Neural Networks", 17th Conference on Computer Science and Intelligence Systems, Sofia, Bulgaria, September 2022.
@@ -40,7 +31,7 @@ An up-to-date list of my publications is available through [Google Scholar](http
 - Poster, "Online Evolving Spiking Neural Networks for Incremental Air Pollution Prediction", IEEE World Congress on Computational Intelligence, Glasgow, United Kingdom, July 2020.
 - Talk, "Discovery of closed spatio-temporal sequential patterns from event data", 23rd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, Budapest, Hungary, September 2019.
 
-## Academic Service
+## Academic Services
 
 - Reviewer for journals and conferences including *Artificial Intelligence Review*, *IEEE Transactions on Neural Networks and Learning Systems*, *Applied Mathematics and Computation*, ACM/SIGAPP Symposium On Applied Computing, and IEEE International Conference on Data Science and Advanced Analytics.
 - Program Committee member of the workshop "Design, Implementation and Applications of Spiking Neural Networks and Neuromorphic Systems", organized during the IEEE World Congress on Computational Intelligence 2020.

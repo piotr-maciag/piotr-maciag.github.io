@@ -3,8 +3,6 @@ title: Funding
 permalink: /funding/
 ---
 
-This page summarizes selected funded projects, grants, awards, and scholarships supporting my research in data mining, machine learning, neural networks, and applied data science.
-
 ## Funded Projects and Grants
 
 - **Principal Investigator**, "Building reusable representations in deep machine learning", Polish National Science Center, Sonata funding scheme, 2025.
