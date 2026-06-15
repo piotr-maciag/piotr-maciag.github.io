@@ -9,6 +9,7 @@ permalink: /teaching/
 - **Object-Oriented Programming**: classes.
 - **Data Mining**: projects.
 - **Introduction to Algorithms**: classes.
+- **Introduction to Process Mining**: lectures.
 
 ## Thesis Supervision
 
