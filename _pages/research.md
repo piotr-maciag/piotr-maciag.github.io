@@ -51,4 +51,5 @@ An up-to-date list of my publications is available through [Google Scholar](http
   - *KES conference*
   - *ACM/SIGAPP Symposium on Applied Computing*
   - *IEEE International Conference on Data Science and Advanced Analytics*
+- Reviewer of approximately 27 master's and bachelor's theses at Warsaw University of Technology.
 - Program Committee member of the workshop "Design, Implementation and Applications of Spiking Neural Networks and Neuromorphic Systems", organized during the IEEE World Congress on Computational Intelligence 2020.
