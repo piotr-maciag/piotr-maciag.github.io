@@ -2,7 +2,6 @@
 title: Research
 permalink: /research/
 ---
-
 - [Publications](#publications)
 - [Conference Presentations](#conference-presentations)
 - [Academic Services](#academic-services)
@@ -44,5 +43,12 @@ An up-to-date list of my publications is available through [Google Scholar](http
 
 ## Academic Services
 
-- Reviewer for journals and conferences including *Artificial Intelligence Review*, *IEEE Transactions on Neural Networks and Learning Systems*, *Applied Mathematics and Computation*, ACM/SIGAPP Symposium On Applied Computing, and IEEE International Conference on Data Science and Advanced Analytics.
+- Reviewer for journals and conferences including:
+  - *The Journal of Supercomputing*
+  - *Artificial Intelligence Review*
+  - *IEEE Transactions on Neural Networks and Learning Systems*
+  - *Applied Mathematics and Computation*
+  - *KES conference*
+  - *ACM/SIGAPP Symposium on Applied Computing*
+  - *IEEE International Conference on Data Science and Advanced Analytics*
 - Program Committee member of the workshop "Design, Implementation and Applications of Spiking Neural Networks and Neuromorphic Systems", organized during the IEEE World Congress on Computational Intelligence 2020.
