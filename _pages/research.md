@@ -10,7 +10,7 @@ permalink: /research/
 
 An up-to-date list of my publications is available through [Google Scholar](https://scholar.google.pl/citations?user=v--wmw0AAAAJ&hl=en) and [DBLP](https://dblp.org/pid/200/0320.html).
 
-1. **Piotr S. Maciąg**,"A Biologically-Inspired Framework for Online Mining Spatio-Temporal Dependency Rules from Event Data Streams", *Proceedings of the 34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems 2026 (ACM SIGSPATIAL 2026)*, accepted.
+1. **Piotr S. Maciąg**, "A Biologically-Inspired Framework for Online Mining Spatio-Temporal Dependency Rules from Event Data Streams", *Proceedings of the 34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems 2026 (ACM SIGSPATIAL 2026)*, accepted.
 2. **Piotr S. Maciąg**, Monika Maciąg, and Magdalena Majdan, "Hierarchical Specialised Ensembles for Classification of Zebrafish Phenotypes Using the Selected Image Recognition Methods", *Proceedings of the 30th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2026)*, accepted. [Preprint](/assets/files/preprints/2026_KES.pdf)
 3. Sooyeon Kim and **Piotr S. Maciąg**, "Combining Retrieval-Augmented Text Generation with LLMs for Reading Content Recommendations", *Proceedings of the 25th International Conference on Artificial Intelligence and Soft Computing (ICAISC 2026)*, accepted. [Preprint](/assets/files/preprints/2026_ICAISC.pdf)
 4. **Piotr S. Maciąg**, "Discovering Frequent Closed Embedded Sub-DAGs in Spatio-Temporal Event Data", *Proceedings of the 7th Polish Conference on Artificial Intelligence (PP-RAI 2026)*, accepted. [Preprint](/assets/files/preprints/2026_PP_RAI26.pdf)
