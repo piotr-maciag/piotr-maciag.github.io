@@ -46,6 +46,7 @@ An up-to-date list of my publications is available through [Google Scholar](http
 
 - Reviewer for journals and conferences including:
   - *Data Science and Engineering*
+  - *Statistics, Optimization & Information Computing*
   - *The Journal of Supercomputing*
   - *Artificial Intelligence Review*
   - *IEEE Transactions on Neural Networks and Learning Systems*
