@@ -156,6 +156,7 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    padding-bottom: 32px;
   }
 
   a {
@@ -169,7 +170,7 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 24px;
+    margin-bottom: 0;
   }
 }
 .sidebar .author__name {
