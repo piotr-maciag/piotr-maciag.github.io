@@ -110,7 +110,6 @@ analytics:
 author:
   name             : "Piotr Maciąg"
   avatar           :  "/assets/portret1.jpeg"
-  bio              : "Assistant Professor at Warsaw University of Technology. Data mining, machine learning, and spatio-temporal data analysis."
   location         : "Warsaw, Poland"
   links:
     - label: "GitHub"
