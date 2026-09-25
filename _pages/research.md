@@ -46,6 +46,7 @@ An up-to-date list of my publications is available through [Google Scholar](http
 ## Academic Services
 
 - Reviewer for journals and conferences including:
+  - *Frontiers in Computer Science*
   - *Data Science and Engineering*
   - *Statistics, Optimization & Information Computing*
   - *The Journal of Supercomputing*
