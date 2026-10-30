@@ -33,6 +33,7 @@ An up-to-date list of my publications is available through [Google Scholar](http
 
 ## Conference Presentations
 
+- Lightning talk/Poster, "A Biologically-Inspired Framework for Online Mining Spatio-Temporal Dependency Rules from Event Data Streams", *34th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2026)*, Riverside, California, USA, November 2026. [Presentation](/assets/files/presentations/2026_ACM_SIGSPATIAL_presentation.pdf) · [Poster](/assets/files/presentations/2026_ACM_SIGSPATIAL_poster.pdf)
 - Talk, "Hierarchical Specialised Ensembles for Classification of Zebrafish Phenotypes Using the Selected Image Recognition Methods", *30th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2026)*, Dublin, Ireland, September 2026. [Presentation](/assets/files/presentations/2026_KES_presentation.pdf)
 - Poster, "Combining Retrieval-Augmented Text Generation with LLMs for Reading Content Recommendations", *International Conference on Artificial Intelligence and Soft Computing (ICAISC 2026)*, Zakopane, Poland, June 2026. [Poster](/assets/files/presentations/2026_ICAISC_poster.pdf)
 - Poster, "Discovering Frequent Closed Embedded Sub-DAGs in Spatio-Temporal Event Data", *Polish Conference on Artificial Intelligence (PP-RAI 2026)*, Kraków, Poland, April 2026. [Poster](/assets/files/presentations/2026_PP_RAI26_poster.pdf)
