@@ -47,6 +47,7 @@ An up-to-date list of my publications is available through [Google Scholar](http
 ## Academic Services
 
 - Reviewer for journals and conferences including:
+  - *The Bulletin of the Polish Academy of Sciences Technical Sciences*
   - *Frontiers in Computer Science*
   - *Data Science and Engineering*
   - *Statistics, Optimization & Information Computing*
