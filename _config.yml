@@ -22,8 +22,8 @@ subtitle                 :
 name                     : "Piotr Maciąg"
 description              : "Academic website of Piotr Maciąg: research, publications, funding, and teaching."
 url                      : "https://piotr-maciag.github.io"
-baseurl                  : "/personal_website" # the subpath of your site
-repository               : "piotr-maciag/personal_website"
+baseurl                  : "" # the subpath of your site
+repository               : "piotr-maciag/piotr-maciag.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
